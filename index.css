@@ -1,0 +1,36 @@
+#firstrow{
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 5px;
+}
+#secondrow{
+    border-radius: 5px;
+    margin: 5px;
+}
+#thirdrow{
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 5px;
+}
+* {
+    margin: 5px 4px 5px 4px;
+  }
+
+  .checked {
+    color: orange;
+  }
+
+  .rating>span:hover:before {
+    content: "\2605";
+    position: absolute;
+  }
+span{
+    color: red;
+}
+.col-lg-1{
+    font-size: 12px;
+    font-weight: bold;
+}
+div{
+    padding: 2px 
+}
